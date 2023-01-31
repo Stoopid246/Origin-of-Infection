@@ -1,0 +1,108 @@
+newmtl Vehicleseat1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000448943 0.0011867 0.0019797 
+
+d 1
+
+Ns 0
+
+newmtl Topshellmaterial0031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Topshellmaterial0031_diff.png
+map_Kd Topshellmaterial0031_diff.png
+map_d Topshellmaterial0031_diff.png
+
+newmtl Enginethingmaterial0131Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Enginethingmaterial0131_diff.png
+map_Kd Enginethingmaterial0131_diff.png
+map_d Enginethingmaterial0131_diff.png
+
+newmtl Tiresmaterial0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Tiresmaterial0021_diff.png
+map_Kd Tiresmaterial0021_diff.png
+map_d Tiresmaterial0021_diff.png
+
+newmtl Steeringwheelmaterial0051Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Steeringwheelmaterial0051_diff.png
+map_Kd Steeringwheelmaterial0051_diff.png
+map_d Steeringwheelmaterial0051_diff.png
+
+newmtl Seatmaterial0041Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Seatmaterial0041_diff.png
+map_Kd Seatmaterial0041_diff.png
+map_d Seatmaterial0041_diff.png
+
+newmtl Framesmaterial0161Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Framesmaterial0161_diff.png
+map_Kd Framesmaterial0161_diff.png
+map_d Framesmaterial0161_diff.png
+
+newmtl Basematerial0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Basematerial0011_diff.png
+map_Kd Basematerial0011_diff.png
+map_d Basematerial0011_diff.png
+

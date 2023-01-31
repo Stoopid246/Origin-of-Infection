@@ -1,0 +1,106 @@
+newmtl Backshellmaterial0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Backshellmaterial0011_diff.png
+map_Kd Backshellmaterial0011_diff.png
+map_d Backshellmaterial0011_diff.png
+
+newmtl Part1Mtl
+Material Color
+Ka 1 1 0
+Kd 1 1 0
+Ks 1 1 0 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+map_Ns Part1_spec.png
+
+newmtl Frontwheel1Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka Frontwheel1_diff.png
+map_Kd Frontwheel1_diff.png
+map_d Frontwheel1_diff.png
+
+map_Bump Frontwheel1_nmap.png
+
+map_Ns Frontwheel1_spec.png
+
+newmtl Frontshellmaterial0031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Frontshellmaterial0031_diff.png
+map_Kd Frontshellmaterial0031_diff.png
+map_d Frontshellmaterial0031_diff.png
+
+newmtl Seatmaterial0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Seatmaterial0021_diff.png
+map_Kd Seatmaterial0021_diff.png
+map_d Seatmaterial0021_diff.png
+
+newmtl Handbrakematerial0041Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Handbrakematerial0041_diff.png
+map_Kd Handbrakematerial0041_diff.png
+map_d Handbrakematerial0041_diff.png
+
+newmtl Enginethingmaterial0051Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Enginethingmaterial0051_diff.png
+map_Kd Enginethingmaterial0051_diff.png
+map_d Enginethingmaterial0051_diff.png
+
